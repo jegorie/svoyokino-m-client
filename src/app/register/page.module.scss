@@ -1,0 +1,11 @@
+.root {
+  flex: 1;
+  padding: 0 8px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 40px;
+}
